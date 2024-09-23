@@ -1,4 +1,4 @@
-![logo](https://github.com/Haresh-thumar/Haresh-Thumar-Profile/blob/main/linkdin%20background%20cover%20photo%20(1919%20x%20480).jpg)
+![logo](https://github.com/user-attachments/assets/f93a1dcc-27d5-4c57-a1f9-460343d7ad17)
 
 <h1 align="center">Hi 👋, I'm Haresh Thumar</h1>
 <h3 align="center">A passionate frontend Angular developer from India</h3>
