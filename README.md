@@ -19,9 +19,9 @@
 
 - 💬 Ask me about **Angular, JavaScript, HTML, CSS**
 
-- 📫 How to reach me **8200857304**
+- 📫 How to reach me **hareshofficial96@gmail.com**
 
-- 📄 Know about my experiences [4 Year](4 Year)
+- 📄 Know about my experiences **5 Year**
 
 - ⚡ Fun fact **I Thinks Many, I am Funny**
 
