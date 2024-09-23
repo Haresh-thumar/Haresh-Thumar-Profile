@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Angular, JavaScript, HTML, CSS**
 
-- 📫 How to reach me **hareshofficial96@gmail.com**
+- 📫 How to reach me using youtube channel comment
 
 - 📄 Know about my experiences **5 Year**
 
