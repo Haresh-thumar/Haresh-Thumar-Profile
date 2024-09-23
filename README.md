@@ -1,7 +1,7 @@
 ![logo](https://github.com/user-attachments/assets/f93a1dcc-27d5-4c57-a1f9-460343d7ad17)
 
-<h1 align="center">Hi 👋, I'm Haresh Thumar</h1>
-<h3 align="center">A passionate frontend Angular developer from India</h3>
+<h1 align="center">Hiii 👋, I'm Haresh Thumar</h1>
+<h3 align="center">A passionate frontend Angular Developer & Designer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haresh-thumar&label=Profile%20views&color=0e75b6&style=flat" alt="haresh-thumar" /> </p>
 
